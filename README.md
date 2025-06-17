@@ -27,7 +27,6 @@ This Python application provides a comprehensive spell checking solution with a 
 
 Clone the repository or download the Python file:
 
-```bash
 git clone https://github.com/AnasSaleem547/regular-expression-based-spelling-checker-toa.git
 Ensure you have a dictionary file named dictionary.txt in the same directory as the script. The application expects this file to be present.
 
