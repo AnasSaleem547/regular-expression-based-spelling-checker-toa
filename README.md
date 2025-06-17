@@ -63,7 +63,7 @@ Control Buttons:
 
 To customize the application:
 
-- Update Dictionary: Modify the words_pos.csv file to add/remove words
+- Update Dictionary: Modify the dictionary.txt file to add/remove words
 - Add Synonyms: Expand the synonyms dictionary in the SpellCheckerApp class
 - Modify Styling: Adjust colors and fonts in the button style dictionary:
 
@@ -80,7 +80,7 @@ To customize the application:
 ## Limitations
 
 - The synonym dictionary is predefined and static
-- Dictionary file (words_pos.csv) must be present in the same directory
+- Dictionary file (dictionary.txt) must be present in the same directory
 - Batch processing only works with CSV files
 
 ---
