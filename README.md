@@ -1,4 +1,4 @@
-# **Enhanced Spell Checker Application**
+# **Regex Based Enhanced Spell Checker Application**
 
 This Python application provides a comprehensive spell checking solution with a graphical user interface built using Tkinter. It includes features like real-time spell checking, dictionary management, batch processing, synonym lookup, and word autocompletion.
 
@@ -82,6 +82,13 @@ To customize the application:
 - The synonym dictionary is predefined and static
 - Dictionary file (dictionary.txt) must be present in the same directory
 - Batch processing only works with CSV files
+
+---
+
+# Contributors
+Thanks to the following people for their contributions:
+
+- **[@bilal-ahmed-khan7412](https://github.com/bilal-ahmed-khan7412)**
 
 ---
 
