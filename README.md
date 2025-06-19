@@ -86,7 +86,7 @@ To customize the application:
 ---
 
 # Contributors
-Thanks to the following people for their contributions:
+Thanks to the following person for his contributions:
 
 - **[@bilal-ahmed-khan7412](https://github.com/bilal-ahmed-khan7412)**
 
